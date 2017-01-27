@@ -5,7 +5,8 @@
 - HTTP 2 Client
 - REACTIVE STREAMS
 
-# OTHER ENHANCEMENTS
+# Resources
+- [Jigsaw - Modular System](http://openjdk.java.net/projects/jigsaw/)
 - [More Concurrency Updates](http://openjdk.java.net/jeps/266)
 - [HTTP/2 Client (Incubator)](http://openjdk.java.net/jeps/110)
 - [The Java Shell (Read-Eval-Print Loop)](http://openjdk.java.net/jeps/222)
